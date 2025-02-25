@@ -8,11 +8,12 @@ This repository contains the material corresponding to the workshop/Hands-on: _F
 
 Material available in \*.ipynb (Jupyter NoteBook) format. The first notebook is structured for execution in Google Collab:
 
-## [GPU-enabled-C_C++applications-CUDA.ipynb](https://drive.google.com/file/d/1kW2qPsXEqt56m96DgTn32OFMwQOTCpyd/view?usp=share_link)
+## [GPU-enabled-C_C++applications-CUDA.ipynb](https://drive.google.com/file/d/1lJz9grK8ruHlLWqUb_myQ61ZbXSbizFE/view?usp=sharing)
 The introductory notebook contains some of the webinar's content, and through some basic commands, we will be able to characterize the available CUDA execution environment.
 
 ---
 
 [Murilo Boratto](http://lattes.cnpq.br/9222855062709254) <br/>
 Researcher at the Supercomputing Center for Industrial Innovation SENAI-CIMATEC [CS2I](http://www.senaicimatec.com.br/en/) <br/>
+
 

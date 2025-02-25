@@ -12,7 +12,7 @@ int main()
   {
     cudaStream_t stream;
     cudaStreamCreate(&stream);
-    printNumber<<<1, 1, stream>>>(i);
+    printNumber<<<1, 1, 0, stream>>>(i);
     cudaStreamDestroy(stream);
   }
   cudaDeviceSynchronize();
